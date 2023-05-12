@@ -5,17 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a4689c9-4b2c-4a00-8bb0-31cd602d8525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PetStore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal1/Animal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal1/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal1/Rooster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Cafeteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/NumeroMayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Volado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mis_pruebas/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mis_pruebas/Marketplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mis_pruebas/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mis_pruebas/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/petStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/petStore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +47,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="AbstractAnimal.PetStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractAnimal.PetStore" />
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractAnimal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Array" />
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animal1.PetStore" />
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Animal1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractAnimal.PetStore" />
+        <item itemvalue="Application.PetStore" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
